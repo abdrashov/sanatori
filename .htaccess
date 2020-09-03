@@ -1,0 +1,8 @@
+AddDefaultCharset UTF-8
+
+RewriteRule ^sanatori?$ sanatori.php [NC,L]
+RewriteRule ^contact?$ contact.php [NC,L]
+RewriteRule ^saryagash?$ index.php [NC,L]
+RewriteRule ^content?$ content.php [NC,L]
+RewriteRule ^search?$ search.php [NC,L]
+RewriteRule ^contact?$ contact.php [NC,L]
